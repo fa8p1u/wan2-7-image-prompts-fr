@@ -101,6 +101,17 @@ Because ratio is a layout decision, not a style one: 1:1 for catalogue and icons
 
 That is the point. Keep the structure (subject + light + framing + setting + finish) and replace the subject; changing everything at once makes it impossible to tell which phrase moved the output.
 
+<!-- related-repos:auto -->
+## Related repositories
+
+- **Same model, this language** — the other half of this pair: [wan2-7-image-api-fr](https://github.com/fa8p1u/wan2-7-image-api-fr)
+- **Same model, other languages** — 9 more language builds: 中文 `wan2-7-image-api-cn` · Deutsch [wan2-7-image-api-de](https://github.com/y4j2y37o/wan2-7-image-api-de) · Español [wan2-7-image-api-es](https://github.com/b05qswr9inv/wan2-7-image-api-es) · Relay/gateway `wan2-7-image-api-gateway` · Bahasa [wan2-7-image-api-id](https://github.com/z0ydfhoij/wan2-7-image-api-id) · 日本語 `wan2-7-image-api-ja` · 한국어 [wan2-7-image-api-ko](https://github.com/ssuvqttn/wan2-7-image-api-ko) · Português [wan2-7-image-api-pt](https://github.com/wndff7oshfhu/wan2-7-image-api-pt) · Русский `wan2-7-image-api-ru`
+- **More models in this language** — [midjourney-api-fr](https://github.com/apimartt1q/midjourney-api-fr) · [gemini-2-5-flash-image-preview-api-fr](https://github.com/haftslut7ha/gemini-2-5-flash-image-preview-api-fr) · [nano-banana-api-fr](https://github.com/f84q06w110/nano-banana-api-fr) · [gemini-3-1-flash-image-preview-api-fr](https://github.com/ok71ckyc/gemini-3-1-flash-image-preview-api-fr) · [nano-banana-2-api-fr](https://github.com/ms0p12t/nano-banana-2-api-fr) · [gemini-3-pro-image-preview-api-fr](https://github.com/w-44vba/gemini-3-pro-image-preview-api-fr)
+- **Topic hubs** — every build of this model, all languages: [wan2-7-image](https://github.com/topics/wan2-7-image) · [wan2-7-image-api](https://github.com/topics/wan2-7-image-api)
+
+This repository is one build in a cross-linked set of API guides for the same model family; each language build links back to the others.
+<!-- /related-repos:auto -->
+
 ## Attributed links (how this repository is measured)
 
 | Purpose | Attributed link | Target |
